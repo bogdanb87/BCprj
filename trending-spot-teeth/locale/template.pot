@@ -1,0 +1,483 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:210
+msgid "\"Best trick ever. Thanks, you made my life easier!\""
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:76
+msgid "\"I was impressed with the results after the first 3 days - but once I saw my teeth after a week, I was absolutely blown away... I knew I was onto something. The trick is to remember to use the product twice daily to give yourself a whitening comparable to that of your favorite actress.\""
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:221
+msgid "\"My teeth look incredible now and my 14 day trials aren't even over! It's so nice knowing they come with Risk Free Trial option!\""
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:241
+msgid "\"One word: amazing! I look and most importantly feel like a totally different person. Not sure if to share this secret with my girlfriends or no..just kidding, already recommended it to everyone I know.\""
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:231
+msgid "\"YAY!"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:178
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:259
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:90
+msgid "$16.99"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:178
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:259
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:90
+msgid "$3.95"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:179
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:91
+msgid "(Risk Free Trial Available As Of"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:127
+msgid "(Showing 1-20 of 47)"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:268
+msgid ""
+"(c)\n"
+"\n"
+"      Copyright HealthReports24 Magazine. All Rights reserved."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:62
+msgid "2,391,558"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:62
+msgid "656"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:72
+msgid "A co-worker of mine recently recommended to do some research online before making my next purchase. As an elementary school teacher with a modest salary and a sizeable mortgage, cost was a major concern. While searching the web I found a few online teeth whitening companies giving away risk free trials where you only had to pay a few dollars for shipping. I ordered"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:105
+msgid "ADD COMMENT"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:25
+msgid "ADVERTISEMENT"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:194
+msgid "AFTER she applied the product:"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:233
+msgid "Amanda & Jon Michaels"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:63
+msgid "Amidst one of the toughest economic times in history, thrifty consumers are turning to the internet to take advantage of special offers."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:201
+msgid "As Of:"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:224
+msgid "Atlanta, GA"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:192
+msgid "BEFORE and ..."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:212
+msgid "Brianna Moldova"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:124
+msgid "COMMENTS"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:197
+msgid "Claim Risk Free Trial of"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:257
+msgid "Claim Your Risk Free Trial Of"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:174
+msgid "Click Here to Get a Risk FREE Trial of True Brilliance"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:88
+msgid "Click Here to get a risk FREE Trial of True Brilliance"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:116
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:127
+msgid "Comments"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:77
+msgid "Conclusion"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:74
+msgid "DESPERATE"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:99
+msgid "Discounts available on"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:7
+msgid "Don't Break The Bank; A Mom's Trick To Whiter Teeth"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:191
+msgid "During the 14 days period Jessica documented this progress with her camera:"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:259
+msgid "EXCLUSIVE"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:52
+msgid "EXCLUSIVE:"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:44
+msgid "Fashion"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:39
+msgid "Fitness"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:79
+msgid "Good Luck with your teeth whitening!"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:40
+msgid "Gossip"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:98
+msgid "Guys, we rarely do these special reports because the reality is that there is just a bunch of rubbish out there claiming to be that next big teeth whitening breakthrough. But this was just too good to keep away from the public. Try it out and send us your thoughts!"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:288
+msgid "Here"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:38
+msgid "Home"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:66
+msgid "How did Jessica wind up with yellow teeth?"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:137
+msgid "I saw this report on tv the other day and was amazed at the results. I am getting married next month so the timing couldn't have been better!! thanks for the tip!"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:165
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:80
+msgid "IMPORTANT: *In clinical testing it was proven that you must apply the whitener twice daily with this method to achieve similar results."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:291
+msgid "In addition, this page is a sponsored page created or supported by a company, organization or group of organizations. This page receives compensation for clicks on or purchase of products featured on this site. This page also accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:290
+msgid "It is important to note that this site and the stories depicted above is to be used as an illustrative example of what some individuals have achieved with this product. This website, and any page on the website, is based loosely off a true story, but has been modified in multiple ways including, but not limited to: the story, the photos, and the comments. Thus, this page, and any page on this website, are not to be taken literally or as a non-fiction story. This page, and the results mentioned on this page, although achievable for some, are not to be construed as the results that you may achieve on the same routine. I UNDERSTAND THIS WEBSITE IS ONLY ILLUSTRATIVE OF WHAT MIGHT BE ACHIEVABLE FROM USING THIS/THESE PRODUCTS, AND THAT THE STORY DEPICTED ABOVE IS NOT TO BE TAKEN LITERALLY."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:190
+msgid "Jessica's Teeth Close Up"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:64
+msgid "Jessica, a school teacher and full time mother, is one such consumer. It all started about three months ago when she bought an authentic Coach purse on sale for only $35 (75% off the retail price). She was determined to seek out other great offers and recently made her best find. Jessica discovered a smart way to get results similar to that of a professional whitening for considerably less. Rather then spending $500 at her local dentist to attain a sexy smile, she was able to do so for less than $4 by using a trial offer she found online."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:65
+msgid "Jessica: \"I like to consider myself a smart shopper, always finding the best bang for my buck. My online teeth whitening discovery was without a doubt one of the best finds I made this year.\""
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:73
+msgid "Jessica: \"I'm an optimist and always look for the silver lining in any situation. While this recession has negatively impacted me like everyone else, my savvy shopping skills got me the smile I always wanted.\""
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:214
+msgid "Lakeland, FL"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:69
+msgid "Look at her before and after picture!"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:234
+msgid "Los Angeles, CA"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:243
+msgid "Michelle"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:60
+msgid "Mom Jessica Crisell reveals how she whitened her teeth for under $4"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:157
+msgid "My brother did this a few months ago, I waited to order my trials to see if it really worked and then they stopped giving out the trials! what a dumb move that turned out to be. glad to see the trials are back again, I wont make the same mistake."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:162
+msgid "My husband and I both need to whiten our teeth because we are going to be seeing family we haven't seen in 25 years. Already ordered it and we are both going to try this out, thanks. - The Higgins family"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:147
+msgid "My mom just e-mailed me this, a friend at work had told her about it. i guess it works really well"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:223
+msgid "Nicole Goodwin"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:52
+msgid "One Mom's $4 Trick To Whiter Teeth"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:74
+msgid "Online teeth whitening companies are"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:43
+msgid "Parenting"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:107
+msgid "Please remember to keep comments respectful. Abusive comments will not be tolerated, and will result in both the removal of the comment as well as a permanent ban to the user who posted it."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:141
+msgid "Posted by Cara"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:156
+msgid "Posted by Dorothee"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:130
+msgid "Posted by Evan"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:151
+msgid "Posted by Laura"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:146
+msgid "Posted by Michael"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:136
+msgid "Posted by Michelle"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:161
+msgid "Posted by Rhia"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:259
+msgid "Promo Link & ONLY Pay"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:206
+msgid "Recent Product Reviews:"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:41
+msgid "Recipes"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:244
+msgid "Reno, NV"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:288
+msgid "Representations regarding the efficacy and safety of"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:261
+msgid "Risk FREE Trial offer valid as of:  <script type=\"text/javascript\">today();</script><br>"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:204
+msgid "Risk Free Trials Still Available!"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:199
+msgid "SMILE"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:168
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:83
+msgid "SPECIAL NOTE: For a limited time, the Official Suppliers of"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:131
+msgid "Sorry it took a while, but I wanted to be sure. I just finished the combo. I took a pic when I got the product a week ago"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:256
+msgid "Step 1:"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:99
+msgid "Stock is limited."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:119
+msgid "Submit"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:248
+msgid "Success Stories"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:287
+msgid "THIS IS AN ADVERTISEMENT AND NOT AN ACTUAL NEWS ARTICLE, BLOG, OR CONSUMER PROTECTION UPDATE."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:78
+msgid "The Consumer Products Exposed team would like to thank Jessica for this amazing teeth whitening tip. If you are interested in using Jessica's trick, we have provided links and coupon code information for the product she used. Remember, to get results like Jessica's, you will want to use the product twice daily, once in morning and once in evening. The coupon code reduces shipping costs to under $4 TOTAL!"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:292
+msgid "The compensation received may influence the advertising content, topics or posts made in this page. That content, advertising space or post may not always be identified as paid or sponsored content."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:293
+msgid "The owner(s) of this page are compensated to provide opinion on products, services, websites and various other topics. Even though the owner(s) of\tthis page receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this page are purely that of the owners. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:196
+msgid "The second picture is taken exactly 7 days after the first. Notice the strong difference after applying the trial product during that time."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:152
+msgid "There is a big stir going on these days about these diets. I am seeing them all over.. I am definitely testing them out! Thanks for the links."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:131
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:168
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:197
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:231
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:257
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:288
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:72
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:83
+msgid "True Brilliance"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:32
+msgid ""
+"Updated:\n"
+"        <script type=\"text/javascript\">today();</script>"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:259
+msgid "Use our"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:178
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:90
+msgid "Use our Exclusive Promo Link & pay only"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:199
+msgid "Use promo code \""
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:75
+msgid "When asked to elaborate on her discovery Jessica said:"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:71
+msgid "While my mom always told me be to be proud of who I am and what I look like, I have always been self conscious about my yellow teeth. Truthfully, I have no one to blame for this problem but myself. I smoked for 8 years, drink 2 cups of coffee a day (only way to stay awake at work), and love a glass of red wine to help me sleep at night. Furthermore, I would be lying if I said that I brushed my teeth 3 times a day every day. While I recently quit smoking and have cut back on the amount of coffee I drink, my tooth discoloration seems to be permanent. I used just about every \"whitening\" toothpaste and mouthwash product on the market and saw little if any improvement."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:101
+msgid "Would you like to share a consumer tip for next week? If so, please send us an email."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:42
+msgid "Yoga"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:288
+msgid "based on the expertise of relevant professionals."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:131
+msgid "came first, had to wait for the other one for an extra day), used them for about a week and just took another pic a few minutes ago. Here they are. Honestly, this is unbelievable, all I have to say is WOW."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:199
+msgid "d pay just $3.95 shipping! (see terms for details)"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:74
+msgid "for new customers and are giving away Risk Free Trials as a way to find new clients and offload excess inventory . You can and should take advantage of the downturn in the economy just like Jessica."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:231
+msgid "has made us look way better. I've actually had comments on how white my teeth look!\""
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:168
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:83
+msgid "have agreed to offer a Risk Free Trial Promotion to our readers. It comes with a 100% guarantee to whiten your teeth or your money back (see terms for details)."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:288
+msgid "have not been evaluated by the Food and Drug Administration. The FDA only evaluates foods and drugs, not supplements like these products. These products are not intended to diagnose, prevent, treat, or cure any disease. Click"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:142
+msgid "my teeth are pretty yellow from drinking coffee and I'm not about to give that up, LOL. i can see how this product might work better, can't wait until my trials get here."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:178
+msgid "on shipping fees (see terms for details)."
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:90
+msgid "on shipping fees. (see terms for details)"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:259
+msgid "on shipping! (see terms for details)"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:288
+msgid "to find evidence of a test, analysis, research, or study describing the benefits, performance or efficacy of"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:72
+msgid "which had a 9/10 rating and positive feedback from all users. After using it I was able to achieve one of those celebrity white smiles. I'm far from a medical expert, but the effect seemed much stronger than your tpyical pharamacy aisle whitener I'd tried once or twice in the past, and really put the whitening effect into overdrive. I truly experienced absolutely unbelievable results and can't believe companies like this are practically giving these products away!"
+msgstr ""
+
+#: c7f789fc54a04fa26c7b9e204b83d4747d88a600.html:289
+msgid "® All trademarks on this web site whether registered or not, are the property of their respective owners. The authors of this web site are not sponsored by or affiliated with any of the third-party trade mark or third-party registered trade mark owners, and make no representations about them, their owners, their products or services."
+msgstr ""
