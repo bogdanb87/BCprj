@@ -1,0 +1,286 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: index.html:117
+msgid "\"Remember, they have an amazing summer sale going on right now. If you buy 4 TrackRs they will send you 4 extra ones for FREE!"
+msgstr ""
+
+#: index.html:70
+msgid "\"This device has saved me tons of time and money!\""
+msgstr ""
+
+#: index.html:74
+msgid ", you can just hide it under your car's floor mat, in the trunk or in the glove compartment. Somewhere it won't be found if your car gets stolen."
+msgstr ""
+
+#: index.html:60
+msgid ". It is a state-of-the-art tracking device the size of a quarter. It's changing the way we keep track of the important things in our lives."
+msgstr ""
+
+#: index.html:150
+msgid "2016 All Rights Reserved."
+msgstr ""
+
+#: index.html:116
+msgid "<i><span translate=\"\">\"Remember, they have an amazing summer sale going on right now. If you buy 4 TrackRs they will send you 4 extra ones for FREE!</span><br><br><span translate=\"\">This way you and your loved ones can keep track of everything. Keys, car, wallet, bike, toys, pets and even electronics such as a laptop, iPad or Kindle!\"</span></i>"
+msgstr ""
+
+#: index.html:56
+msgid "A California-based startup company was able to make this a reality. They created a tiny device that works with your smartphone, and it could be exactly what you're looking for!"
+msgstr ""
+
+#: index.html:24
+msgid "About"
+msgstr ""
+
+#: index.html:17
+msgid "Advertorial by TrackR"
+msgstr ""
+
+#: index.html:145
+msgid "Android 4.4 and Later with Bluetooth Low Energy."
+msgstr ""
+
+#: index.html:94
+msgid "As a special summer sale, the company is now offering an incredible \"Buy 4 – Get 4 FREE\" deal to all new customers."
+msgstr ""
+
+#: index.html:98
+msgid "As we said before,"
+msgstr ""
+
+#: index.html:103
+msgid "Attach it To Everything That's Important To You..."
+msgstr ""
+
+#: index.html:54
+msgid "But is there a way to track your vehicle without spending a fortune? Yes, now there is!"
+msgstr ""
+
+#: index.html:118
+msgid "Click To Learn More &raquo;"
+msgstr ""
+
+#: index.html:34
+msgid "Click here to find out more..."
+msgstr ""
+
+#: index.html:23
+msgid "Contact us"
+msgstr ""
+
+#: index.html:145
+msgid "Devices with iOS 8 and up"
+msgstr ""
+
+#: index.html:151
+msgid "Disclosure"
+msgstr ""
+
+#: index.html:72
+msgid "Forget expensive GPS systems or tracking services. Nobody wants to pay expensive monthly subscription fees. We understand how stressful these things can be, and this is the reason why TrackR was created. This device is your VIP when you need to take care of more important things in life."
+msgstr ""
+
+#: index.html:50
+msgid "Have you ever lost your car on a parking lot? It happens. You park and go shopping. When you get back, you don't have a clue where your car is. Then you start roaming around clicking on the panic button on your car keys so the alarm goes off. It can be frustrating, especially on a hot, sunny day."
+msgstr ""
+
+#: index.html:113
+msgid "Here's a tip:"
+msgstr ""
+
+#: index.html:25
+msgid "Home"
+msgstr ""
+
+#: index.html:40
+msgid "Home &rsaquo; Trending &rsaquo; Gadgets &rsaquo;"
+msgstr ""
+
+#: index.html:64
+msgid "How Does it Work?"
+msgstr ""
+
+#: index.html:86
+msgid "How Much is it Going To Cost Me?"
+msgstr ""
+
+#: index.html:76
+msgid "If you forget where you parked your car, whip out your smartphone and open the TrackR app. Tap on the \"lost item\" icon on the screen and the app will tell you the exact coordinates of the last known location of the TrackR."
+msgstr ""
+
+#: index.html:60
+msgid "It's called"
+msgstr ""
+
+#: index.html:66
+msgid "It's easy! Install the free TrackR app on your smartphone, connect the app to your device and you're ready to go! Simply attach"
+msgstr ""
+
+#: index.html:22
+msgid "Lifestyle"
+msgstr ""
+
+#: index.html:94
+msgid "NOTE:"
+msgstr ""
+
+#: index.html:52
+msgid "No, you don't need to install an expensive GPS system to keep track of your car. That's way too expensive. You would need to pay a monthly subscription fee just to use it. Don't we have enough bills to pay already?"
+msgstr ""
+
+#: index.html:105
+msgid "Now that you've been informed about this brilliant invention, let me show you how easy it is to track your valuable items. All you need to do is to follow these 3 steps:"
+msgstr ""
+
+#: index.html:107
+msgid "Order"
+msgstr ""
+
+#: index.html:152
+msgid "Privacy Policy"
+msgstr ""
+
+#: index.html:111
+msgid "Relax... Use the TrackR app to find your things. It's easy!"
+msgstr ""
+
+#: index.html:74
+msgid "Remember the car scenario above? If you have the"
+msgstr ""
+
+#: index.html:44
+msgid "September 19, 2016 at 11:49 am EDT | Sponsored by Trackr"
+msgstr ""
+
+#: index.html:107
+msgid "Step 1:"
+msgstr ""
+
+#: index.html:109
+msgid "Step 2:"
+msgstr ""
+
+#: index.html:111
+msgid "Step 3:"
+msgstr ""
+
+#: index.html:22
+msgid "Study"
+msgstr ""
+
+#: index.html:141
+msgid "THE STORY DEPICTED ON THIS SITE AND THE PERSON DEPICTED IN THE STORY ARE NOT ACTUAL NEWS. RATHER, THIS STORY IS BASED ON THE RESULTS THAT SOME PEOPLE WHO HAVE USED THESE PRODUCTS HAVE ACHIEVED. THE RESULTS PORTRAYED IN THE STORY AND IN THE COMMENTS ARE ILLUSTRATIVE, AND MAY NOT BE THE RESULTS THAT YOU ACHIEVE WITH THESE PRODUCTS. THIS PAGE COULD RECEIVE COMPENSATION FOR CLICKS ON OR PURCHASE OF PRODUCTS FEATURED ON THIS SITE."
+msgstr ""
+
+#: index.html:137
+msgid "THIS IS AN ADVERTISEMENT AND NOT AN ACTUAL NEWS ARTICLE, BLOG, OR CONSUMER PROTECTION UPDATE"
+msgstr ""
+
+#: index.html:153
+msgid "Terms of Use"
+msgstr ""
+
+#: index.html:117
+msgid "This way you and your loved ones can keep track of everything. Keys, car, wallet, bike, toys, pets and even electronics such as a laptop, iPad or Kindle!\""
+msgstr ""
+
+#: index.html:9
+msgid "Tiny Device Allows You To Track Your Car Using Your Smartphone"
+msgstr ""
+
+#: index.html:43
+msgid "Tiny Device Allows You To Track Your Vehicle Using Your Smartphone"
+msgstr ""
+
+#: index.html:100
+#: index.html:107
+#: index.html:60
+#: index.html:66
+#: index.html:74
+#: index.html:98
+msgid "TrackR"
+msgstr ""
+
+#: index.html:34
+msgid "TrackR Bravo - Find Lost Keys, Find Lost Phone"
+msgstr ""
+
+#: index.html:113
+msgid "TrackR is a great gift idea because there's no monthly fee involved!"
+msgstr ""
+
+#: index.html:143
+msgid "TrackR is intended to be used to prevent and locate misplaced or stolen items and it should not be used on people."
+msgstr ""
+
+#: index.html:145
+msgid "TrackRs are enabled by Bluetooth low energy, with a range of connectivity of up to 100ft. TrackR requires a tablet or phone to be running the TrackR app in the background, and Bluetooth must be enabled. TrackR currently only works with:<ul><li translate=\"\">Devices with iOS 8 and up</li><li translate=\"\">Android 4.4 and Later with Bluetooth Low Energy.</li></ul>"
+msgstr ""
+
+#: index.html:80
+msgid "Watch The Video Below To See How TrackR Works..."
+msgstr ""
+
+#: index.html:96
+msgid "What else can I do with TrackR?"
+msgstr ""
+
+#: index.html:58
+msgid "What is it?"
+msgstr ""
+
+#: index.html:146
+msgid "When an item goes missing with a TrackR device attached, all TrackR enabled phones will begin to search for that item. When another TrackR app user passes nearby the lost item, that user's phone will anonymously ping the TrackR server to update the item's owner with new GPS coordinates of when and where it was last seen."
+msgstr ""
+
+#: index.html:109
+msgid "When you receive it, open the package and place the thin battery inside the device. Then download the free TrackR app on your smartphone and link up the unit with the app. Finally, hide TrackR in your car or attach it to the item you wish to track."
+msgstr ""
+
+#: index.html:90
+msgid "Where can I buy one?"
+msgstr ""
+
+#: index.html:48
+msgid "With Over 2.5 Million Units Sold Worldwide, This is The Most Affordable Solution to Find Your Lost Items!"
+msgstr ""
+
+#: index.html:78
+msgid "With TrackR you'll gain peace of mind, knowing you can find your car quickly."
+msgstr ""
+
+#: index.html:92
+msgid "You can"
+msgstr ""
+
+#: index.html:68
+msgid "You can attach it to your keys, briefcase, wallet, your latest tech gadgets and anything else you don't want to lose. Then use the TrackR app to locate your missing item in seconds."
+msgstr ""
+
+#: index.html:88
+msgid "You're probably thinking that this device is very expensive... False! TrackR only costs $29! That's a small price to pay for peace of mind, isn't it?"
+msgstr ""
+
+#: index.html:92
+msgid "buy it directly from the company's website by clicking here."
+msgstr ""
+
+#: index.html:100
+msgid "even comes with a double-sided adhesive so you can stick it to your laptop or under your bike seat. Track down and punish the thieves who steal your expensive things!"
+msgstr ""
+
+#: index.html:98
+msgid "has unlimited possibilities. The device is small and unobtrusive enough that you can attach it to your pet. Put it on their collar, and the issue of searching for them as they scamper off to nearby places will be over! Attach it to your keys and wallet, and never waste a minute rummaging the whole house for it."
+msgstr ""
+
+#: index.html:66
+msgid "to whatever you want to keep tabs on. The entire process of setting it up only takes 5 minutes or less."
+msgstr ""
+
+#: index.html:107
+msgid "today to take advantage of the 50% OFF sale."
+msgstr ""
